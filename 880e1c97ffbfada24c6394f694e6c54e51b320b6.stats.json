@@ -3,8 +3,8 @@
     "name": "standard-minifier-js",
     "version": "2.3.1"
   },
-  "totalMinifiedBytes": 3259276,
-  "totalMinifiedGzipBytes": 916487,
+  "totalMinifiedBytes": 3261102,
+  "totalMinifiedGzipBytes": 916823,
   "minifiedBytesByPackage": {
     "packages/meteor.js": 8962,
     "packages/meteor-base.js": 31,
@@ -1999,24 +1999,25 @@
     ],
     "app/global-imports.js": 1212,
     "app/app.js": [
-      481023,
+      482849,
       {
         "client": {
           "views": {
             "modules": {
               "template.comment.js": 2083,
-              "template.comments.js": 737,
-              "template.content.js": 2942,
-              "template.drafts.js": 1531,
+              "template.comments.js": 655,
+              "template.content.js": 2085,
+              "template.drafts.js": 1864,
               "template.footer.js": 1731,
               "template.horizontalpost.js": 3504,
-              "template.maincards.js": 1130,
+              "template.maincards.js": 1058,
+              "template.personalfeed.js": 4160,
               "template.post.js": 2513,
-              "template.profile.js": 5631,
+              "template.profile.js": 2200,
               "template.reply.js": 379,
               "template.share.js": 2151,
               "template.sharemodal.js": 1253,
-              "template.sidebar.js": 2909,
+              "template.sidebar.js": 2901,
               "template.topbanner.js": 530,
               "template.topmenu.js": 3079,
               "template.vote.js": 705,
@@ -2036,12 +2037,12 @@
             },
             "pages": {
               "template.admin.js": 1049,
-              "template.article.js": 1255,
-              "template.create.js": 2028,
+              "template.article.js": 2323,
+              "template.create.js": 2052,
               "template.home.js": 2970,
               "admin.js": 1601,
               "articles.js": 90,
-              "create.js": 4375,
+              "create.js": 4378,
               "home.js": 329
             }
           },
@@ -2081,12 +2082,12 @@
             "collections": {
               "accounthistory.js": 628,
               "coins.js": 12,
-              "collectionshelper.js": 2284,
+              "collectionshelper.js": 2858,
               "comments.js": 699,
               "contents.js": 1064,
               "followers.js": 12,
               "notifications.js": 12,
-              "personalhistory.js": 967,
+              "personalhistory.js": 943,
               "tags.js": 12,
               "users.js": 704
             },
@@ -2096,7 +2097,7 @@
             "summernote-lite.js": 126411,
             "translator.js": 1187
           },
-          "app.js": 2869,
+          "app.js": 2921,
           "buffer.js": 60,
           "router.js": 2991
         }
