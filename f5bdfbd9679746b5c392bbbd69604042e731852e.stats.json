@@ -3,8 +3,8 @@
     "name": "standard-minifier-js",
     "version": "2.3.1"
   },
-  "totalMinifiedBytes": 3261102,
-  "totalMinifiedGzipBytes": 916820,
+  "totalMinifiedBytes": 3261027,
+  "totalMinifiedGzipBytes": 916791,
   "minifiedBytesByPackage": {
     "packages/meteor.js": 8962,
     "packages/meteor-base.js": 31,
@@ -1999,7 +1999,7 @@
     ],
     "app/global-imports.js": 1212,
     "app/app.js": [
-      482849,
+      482774,
       {
         "client": {
           "views": {
@@ -2097,7 +2097,7 @@
             "summernote-lite.js": 126411,
             "translator.js": 1187
           },
-          "app.js": 2921,
+          "app.js": 2846,
           "buffer.js": 60,
           "router.js": 2991
         }
