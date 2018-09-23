@@ -3,8 +3,8 @@
     "name": "standard-minifier-js",
     "version": "2.3.1"
   },
-  "totalMinifiedBytes": 3922041,
-  "totalMinifiedGzipBytes": 1104680,
+  "totalMinifiedBytes": 3920068,
+  "totalMinifiedGzipBytes": 1104206,
   "minifiedBytesByPackage": {
     "packages/meteor.js": 8962,
     "packages/meteor-base.js": 31,
@@ -2399,7 +2399,7 @@
     ],
     "app/global-imports.js": 1212,
     "app/app.js": [
-      606297,
+      604324,
       {
         "client": {
           "views": {
@@ -2409,7 +2409,7 @@
                   "template.dropdownprofile.js": 2273,
                   "dropdownprofile.js": 308
                 },
-                "template.topmenu.js": 6478,
+                "template.topmenu.js": 6463,
                 "topmenu.js": 1927
               },
               "template.footer.js": 1872,
@@ -2420,15 +2420,15 @@
             "pages": {
               "article": {
                 "plugins": {
-                  "template.comment.js": 3751,
+                  "template.comment.js": 3733,
                   "template.comments.js": 1024,
-                  "template.content.js": 2217,
+                  "template.content.js": 2065,
                   "template.reply.js": 1351,
                   "comment.js": 324,
                   "content.js": 353,
                   "reply.js": 872
                 },
-                "template.article.js": 2531,
+                "template.article.js": 2515,
                 "articles.js": 384
               },
               "create": {
@@ -2436,43 +2436,41 @@
                   "template.drafts.js": 2109,
                   "drafts.js": 859
                 },
-                "template.create.js": 2052,
+                "template.create.js": 2031,
                 "create.js": 4396
               },
               "home": {
                 "plugins": {
-                  "template.maincards.js": 2321,
-                  "template.mainlist.js": 2429,
+                  "template.maincards.js": 2278,
+                  "template.mainlist.js": 2386,
                   "maincards.js": 183,
                   "mainlist.js": 181
                 },
-                "template.home.js": 15947,
+                "template.home.js": 16114,
                 "home.js": 547
               },
               "post": {
                 "plugins": {
                   "template.share.js": 2437,
                   "template.sharemodal.js": 1543,
-                  "template.upvote.js": 4726,
-                  "template.vote.js": 152,
+                  "template.upvote.js": 3270,
                   "template.votemodal.js": 2998,
                   "share.js": 539,
                   "sharemodal.js": 294,
                   "upvote.js": 162,
-                  "vote.js": 426,
                   "votemodal.js": 1218
                 },
-                "template.card.js": 3175,
-                "template.horizontalpost.js": 3030,
-                "template.post.js": 3065,
-                "card.js": 954,
+                "template.card.js": 3131,
+                "template.horizontalpost.js": 3126,
+                "template.post.js": 3135,
+                "card.js": 958,
                 "horizontalpost.js": 1356,
                 "post.js": 947
               },
               "profile": {
                 "plugins": {
                   "template.personalfeed.js": 3489,
-                  "template.profilecard.js": 6407,
+                  "template.profilecard.js": 6391,
                   "template.profileplaylist.js": 618,
                   "template.transfermodal.js": 3026,
                   "template.usercomments.js": 1706,
@@ -2487,7 +2485,7 @@
                   "userrewards.js": 12,
                   "wallet.js": 1258
                 },
-                "template.profile.js": 5126,
+                "template.profile.js": 5110,
                 "profile.js": 1132
               },
               "template.aboutus.js": 400,
@@ -2533,14 +2531,14 @@
               "accounthistory.js": 1177,
               "blog.js": 502,
               "coins.js": 44,
-              "collectionshelper.js": 3099,
+              "collectionshelper.js": 3125,
               "comments.js": 699,
-              "contents.js": 2181,
+              "contents.js": 2389,
               "followers.js": 892,
               "notifications.js": 12,
               "personalhistory.js": 1244,
               "tags.js": 12,
-              "users.js": 718
+              "users.js": 707
             },
             "coinmarket.js": 797,
             "dateformat.js": 2113,
@@ -2552,7 +2550,7 @@
             "summernote-lite.js": 126411,
             "translator.js": 1187
           },
-          "app.js": 4558,
+          "app.js": 4587,
           "buffer.js": 60,
           "router.js": 5727
         }
